@@ -1,0 +1,80 @@
+{
+  "_подсказка": "Услуги по категориям. price — рубли, duration — минуты. popular: true — показывать в «Популярных услугах» (до 3). hidden: true — скрыть от клиентов. Порядок в файле = порядок на странице.",
+  "categories": [
+    {
+      "id": "csmv72i6en0ff",
+      "name": "Маникюр",
+      "services": [
+        {
+          "id": "smv72i6en1b4",
+          "name": "COMPLEX 1. мне красить не надо",
+          "desc": "снятие (при наличии покрытия) + гигиенический маникюр",
+          "price": 1200,
+          "duration": 30,
+          "popular": false,
+          "hidden": false
+        },
+        {
+          "id": "smv72i6en247",
+          "name": "COMPLEX 2. однотон",
+          "desc": "снятие/маникюр/моделирование/укрепление/ремонт+цвет",
+          "price": 2000,
+          "duration": 90,
+          "popular": true,
+          "hidden": false
+        },
+        {
+          "id": "smv72i6en36f",
+          "name": "COMPLEX 3. хочу френч",
+          "desc": "снятие/маникюр/моделирование/укрепление/френч",
+          "price": 2500,
+          "duration": 120,
+          "popular": false,
+          "hidden": false
+        },
+        {
+          "id": "smv72i6en4ea",
+          "name": "COMPLEX 4. нужно все восстановить",
+          "desc": "снятие/маникюр/моделирование/укрепление/достраивание углов/выравнивание",
+          "price": 2500,
+          "duration": 120,
+          "popular": false,
+          "hidden": false
+        },
+        {
+          "id": "smv72i6en5b0",
+          "name": "ремонт срочно",
+          "desc": "",
+          "price": 800,
+          "duration": 20,
+          "popular": false,
+          "hidden": false
+        }
+      ]
+    },
+    {
+      "id": "csmv72i6en600",
+      "name": "Наращивание",
+      "services": [
+        {
+          "id": "smv72i6en786",
+          "name": "COMPLEX S-L",
+          "desc": "снятие/маникюр/наращивание длины s-l",
+          "price": 3000,
+          "duration": 120,
+          "popular": true,
+          "hidden": false
+        },
+        {
+          "id": "smv72i6en86a",
+          "name": "коррекция наращивания",
+          "desc": "снятие/маникюр/моделирование",
+          "price": 2500,
+          "duration": 90,
+          "popular": true,
+          "hidden": false
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "_подсказка": "Профиль мастера. Правьте здесь или в личном кабинете — результат одинаковый. Соцсети пишите без @ и без https://. theme: rose, beige, lavender, sage, mocha или dark. accent — необязательный цвет вида #d94f87. design: classic, editorial или minimal.",
+  "name": "Марина Лисова",
+  "specialty": "Nail-мастер и педикюр",
+  "address": "ул. Садовая, 15, студия «Лотос»",
+  "about": "Маникюр, педикюр и дизайн. Уютная студия, чай и хорошая музыка. Принимаю по записи.",
+  "phone": "+7 912 345-67-89",
+  "instagram": "marina.lotos",
+  "telegram": "marina_lotos",
+  "whatsapp": "",
+  "vk": "",
+  "map": "",
+  "timezone": "Europe/Moscow",
+  "theme": "lavender",
+  "accent": "",
+  "design": "editorial",
+  "telegramToken": "",
+  "telegramChatId": "",
+  "paused": false,
+  "setupDone": true,
+  "createdAt": "2026-10-13T19:12:09.186Z",
+  "photos": {
+    "works": [],
+    "studio": []
+  }
+}

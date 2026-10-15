@@ -1,0 +1,8 @@
+{
+  "platformName": "Beauty Agent",
+  "baseUrl": "http://localhost:3000",
+  "allowExternal": false,
+  "port": 3000,
+  "host": "0.0.0.0",
+  "passwordHash": "scrypt$207aedf4e0c6e8c077850d8c15465e03$597ca9b615643577073c5c69d955a300e7e292a5bcbde4672f217abf01403eddfbcf80046aec8b9cfae2a3c84f5952c0cf3528fba551e8d785494a3626bd1752"
+}

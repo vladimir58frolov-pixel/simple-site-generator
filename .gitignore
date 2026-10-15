@@ -1,0 +1,23 @@
+﻿
+# Beauty booking local data
+**/node_modules/
+.env
+.env.*
+!.env.example
+/masters/*
+!/masters/.gitkeep
+/inbox/*
+!/inbox/.gitkeep
+/archive/*
+!/archive/.gitkeep
+/template/backups/*
+!/template/backups/.gitkeep
+/uploads/
+/data/
+/logs/
+*.log
+*.pem
+*.key
+*.sqlite
+*.sqlite3
+*.db

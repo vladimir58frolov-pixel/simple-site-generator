@@ -1,0 +1,21 @@
+{
+  "_подсказка": "Профиль мастера. Правьте здесь или в личном кабинете — результат одинаковый. Соцсети пишите без @ и без https://. theme: rose, beige, lavender, sage, mocha или dark. accent — необязательный цвет вида #d94f87.",
+  "name": "",
+  "specialty": "Мастер маникюра",
+  "address": "",
+  "about": "",
+  "phone": "",
+  "instagram": "",
+  "telegram": "",
+  "vk": "",
+  "map": "",
+  "timezone": "Europe/Moscow",
+  "theme": "rose",
+  "accent": "",
+  "telegramToken": "",
+  "telegramChatId": "",
+  "paused": false,
+  "setupDone": false,
+  "createdAt": "",
+  "photos": { "works": [], "studio": [] }
+}
